@@ -1,0 +1,6 @@
+Name :Janaki
+Subject : CDD
+Experiment :Git operations
+
+Enter the year and usn:
+
